@@ -4,5 +4,7 @@ This repository is part of [Fernando Herrera](https://fernando-herrera.com/)'s c
 ### Description
 This repository has multiples branches for each project in the course.
 
+`npx create-react-app project_name --template typescript`
+
 ### Branches
 - [01-bases](https://github.com/Juxn89/ReactJs-Pro/tree/01-bases) | brush up to basic concept of react with TypeScript.
