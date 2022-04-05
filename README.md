@@ -10,3 +10,4 @@ This repository has multiples branches for each project in the course. Firstly u
 - [02-react-app](https://github.com/Juxn89/ReactJs-Pro/tree/01-bases) | project base to use in other branches.
 - [02-react-app-lazyload](https://github.com/Juxn89/ReactJs-Pro/tree/02-react-app-lazyload) | this brach is a fork from *02-react-app* and the purpouse is use lazyload in routes with *react router dom v6*.
 - [02-react-app-lazyload-nested](https://github.com/Juxn89/ReactJs-Pro/tree/02-react-app-lazyload-nested) | this brach is a fork from *02-react-app* and the purpouse is use lazyload and nested routes with *react router dom v6*.
+- [03-compound-component-pattern](https://github.com/Juxn89/ReactJs-Pro/tree/03-compound-component-pattern) | this brach is a fork from *02-react-app* and the purpouse is explain about *Compound Component Patter*.
