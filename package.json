@@ -1,7 +1,24 @@
 {
-  "name": "reactjs-pro",
+  "name": "jg-my-storybook",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
+  "typings": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "homepage": "https://www.linkedin.com/in/jcgomez89/",
+  "repository": {
+    "url": "https://github.com/Juxn89/storybook-components",
+    "type": "git"
+  },
+  "release": {
+    "branches": [
+      "06-my-storybook"
+    ]
+  },
+  "files": [
+    "dist",
+    "src"
+  ],
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
@@ -17,8 +34,8 @@
   },
   "scripts": {
     "start": "start-storybook -p 6006",
-    "build": "build-storybook",
-    
+    "build": "",
+
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
